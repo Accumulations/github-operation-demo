@@ -17,4 +17,6 @@
 - 建立分支，并切换到dev分支 `git checkout -b dev`
 - 用`git branch`命令查看当前分支
 - 再进行数据修改
-- `git add .`....
+- `git add .`,`git commit -m "xxx"`
+- dev分支的工作完成，我们就可以切换回master分支`git checkout master`
+- 
