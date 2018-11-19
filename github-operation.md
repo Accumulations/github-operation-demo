@@ -1,4 +1,5 @@
 #github基本操作命令
+
 ##从零开始创建项目远程仓库
 - 在github页面上新建项目仓库
 - `git clone https://github.com/Accumulations/github-operation-demo`将github上的项目仓库克隆到本地
@@ -22,3 +23,6 @@
 - `git merge dev`把dev分支的工作成果合并到master分支上
 - `git branch -d dev`合并完成后，就可以放心地删除dev分支了
 - `git push origin master`再push到远程仓库
+
+##查看历史
+`git log`
